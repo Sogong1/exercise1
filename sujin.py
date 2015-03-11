@@ -20,9 +20,19 @@ sang()
 
 
 
-
+printf("sujinzzang")
 
 
 printf("dhaifd")
 >>>>>>> ab0a0f3b03d8efa41e6e15ad5db7aeda3620b34d
+<<<<<<< HEAD
 >>>>>>> 0d500ebfc13b4b5a96c2447f032cf8e4dbbff4de
+=======
+
+
+
+
+
+
+Hakcheon
+>>>>>>> 49dfd48df15a13b87b99800628227bda3d04d033
