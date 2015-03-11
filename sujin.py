@@ -8,3 +8,4 @@ def fib(n):
 
 result = fib(10)
 printf(result)
+printf("myungguun");
